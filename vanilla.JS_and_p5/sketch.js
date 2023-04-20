@@ -1,5 +1,5 @@
 let x = 200;
-let xSpeed = 5;
+let xSpeed = 2;
 
 let fasterButton = document.getElementById("fast");
 
@@ -21,7 +21,6 @@ function draw(){
 
 function increaseSpeed(){
     xSpeed++;
-
 }
 
 fasterButton.addEventListener("click", increaseSpeed);
