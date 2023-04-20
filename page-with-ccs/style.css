@@ -1,0 +1,54 @@
+body {
+    background-color: yellowgreen;
+}
+
+p {
+    font-size: 30px;
+    color: yellow
+}
+
+.youssefsintro {
+    color: white;
+
+    background-color: rgb(1, 3, 4);
+}
+
+.image {
+    width: 300px;
+}
+
+.imageBox {
+    border-width: 3px;
+    border-style: ridge;
+    border-color: rgb(13, 205, 205);
+    border-radius: 5px;
+
+    padding: 15px;
+    margin: 155px;
+    background-color: rgb(96, 64, 126);
+}
+
+.secondDiv {
+    background-color: black;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+.thirdDiv {
+    background-color: black;
+    position: fixed;
+    top: 50px;
+    left: 30px;
+}
+
+
+/* .specialHighlight{
+    background-color: aquamarine;
+} */
+
+
+/* try out css attributes */
+/* CSS syntax (Cascading style sheets) */
+/* selector{
+    property: value */
