@@ -8,7 +8,9 @@ let introScreen = true;
 let raining = false;
 
 function setup() {
-  createCanvas(800, 600);
+  let canvas = createCanvas(800,600);
+  canvas.parent("canvasContainer");
+  // createCanvas(800, 600);
 
   for (let i = 0; i < 0; i++) {
     clouds.push(new Cloud(random(width), random(50, 150)));

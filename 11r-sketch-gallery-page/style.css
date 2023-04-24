@@ -4,6 +4,11 @@ html, body{
 }
 
 #canvasContainer{
-    margin-left:30px
+    display: flex;
+    justify-content: center;
 
+}
+
+p{
+    color:rgb(15, 50, 50)
 }
