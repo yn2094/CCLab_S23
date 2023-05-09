@@ -1,0 +1,9 @@
+html, body{
+    margin:0;
+    background-color: rgb(36, 86, 46);
+}
+
+#canvasContainer{
+    margin-left:30px
+
+}
