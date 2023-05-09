@@ -8,7 +8,6 @@ let boxPositions = [300, 600, 900, 1200];
 let mysteryBoxes = [];
 let mysteryBoxCounter = 0; 
 let counter = 0;
-
 let popupLinks = [
   "https://opensea.io/stickysup",
   "https://yn2094.github.io/CCLab_S23/11r-sketch-gallery-page/",
